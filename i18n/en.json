@@ -1,0 +1,12 @@
+{
+    "GPT_Api_Key_Label": "GPT API secret key",
+    "GPT_Api_Key_Description": "Enter your GPT API secret key. For more information, visit https://platform.openai.com/api-keys",
+    "GPT_Api_Key_Placeholder": "Enter your GPT API secret key...",
+    "GPT_Model_Label": "GPT Model",
+    "GPT_Model_Description": "Select the GPT model to use",
+    "GPT_Command_Description": "Question and Answer with ChatGPT",
+    "your_prompt": "your prompt (required)",
+    "gpt-3.5-turbo": "GPT 3.5 Turbo",
+    "gpt-3.5-turbo-16k": "GPT 3.5 Turbo 16k",
+    "davinci-002": "GPT Davinci"
+}

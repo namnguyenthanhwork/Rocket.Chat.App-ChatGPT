@@ -1,0 +1,17 @@
+{
+	"id": "56800186-15fc-4173-9081-87a60e782c0b",
+	"version": "1.0.0",
+	"requiredApiVersion": "^1.19.0",
+	"iconFile": "icon.jpg",
+	"author": {
+		"name": "Thành Nam Nguyễn",
+		"homepage": "https://github.com/namnguyenthanhwork/Rocket.Chat.App-ChatGPT",
+		"support": "https://github.com/namnguyenthanhwork/Rocket.Chat.App-ChatGPT/issues"
+	},
+	"name": "Chat GPT",
+	"nameSlug": "gpt",
+	"classFile": "ChatGPTApp.ts",
+	"description": "Chat GPT integration for Rocket.Chat.App",
+	"categories": ["search", "chatbot", "ai"],
+	"implements": []
+}
