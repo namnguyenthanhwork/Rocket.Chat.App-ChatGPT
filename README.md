@@ -1,11 +1,9 @@
 <div align="center">
-  <h1 align="center">
-    Rocket.Chat.App-ChatGPT
-    <br />
-    <br />
+    <h1 align="center">Rocket.Chat.App-ChatGPT</h1>
     <img src="/icon.jpg" width="150px" height="150px" alt="Rocket.Chat.App-ChatGPT">
-  </h1>
-  <p>ChatGPT integration for Rocket.Chat</p>
+    <br />
+    <br />
+    <p>ChatGPT integration for Rocket.Chat</p>
 </div>
 
 ## Install bot
@@ -63,8 +61,13 @@ You are now all set to develop your app. You can develop `gpt-bot` and run `rc-a
 
 Contributions, issues and feature requests are welcome.
 
-Feel free to check [issues page](https://github.com/namnguyenthanhwork/wiki-rocketchat-bot/issues) if you want to contribute.
+Feel free to check [issues page](https://github.com/namnguyenthanhwork/Rocket.Chat.App-ChatGPT/issues) if you want to contribute.
 
 ## ❤ Show your support
 
 Please ⭐️ this repository if this project helped you!
+
+## Related projects Rocket.Chat
+
+- [Rocket.Chat.App-Gemini](https://github.com/namnguyenthanhwork/Rocket.Chat.App-Gemini)
+- [Rocket.Chat.App-Wikipedia](https://github.com/namnguyenthanhwork/Rocket.Chat.App-Wikipedia)
